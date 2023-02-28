@@ -1,4 +1,4 @@
 # first-repo
-# updating
+## updating
 # cloning
 # updating from remote
